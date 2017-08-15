@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+div {
+  display: inline-block;
+  vertical-align: top
+}
+#quantity {
+  width: 120px;
+}
+#qty{
+  padding-top: 100px;
+}
+form {
+  padding: 6px;
+}
